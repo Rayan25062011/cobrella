@@ -1,5 +1,5 @@
 name: cobrella
-run-name: ${{ github.actor }}  Cato setup
+run-name: ${{ github.actor }}  Cobrella setup
 on: [push]
 jobs:
   cato:
