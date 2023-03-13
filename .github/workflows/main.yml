@@ -5,7 +5,7 @@ jobs:
   cato:
     runs-on: ubuntu-latest
     steps:
-      - run: pip install python3
+      - run: echo "Starting up!"
       - run: python3 cobrella.py FILE-NAME-HERE
       - run: echo "Checking if job done"
       - name: Job done successfully
