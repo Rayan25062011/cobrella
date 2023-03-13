@@ -1,4 +1,4 @@
-name: cato
+name: cobrella
 run-name: ${{ github.actor }}  Cato setup
 on: [push]
 jobs:
@@ -6,7 +6,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: pip install python3
-      - run: python3 cota.py FILE-NAME-HERE
+      - run: python3 cobrella.py FILE-NAME-HERE
       - run: echo "Checking if job done"
       - name: Job done successfully
         uses: actions/checkout@v3
