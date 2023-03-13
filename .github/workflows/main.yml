@@ -6,8 +6,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: echo "Starting up!"
-      - run: echo "Running subprocess job #1"
-      - run: echo "Running subprocess #2"
+      - run: echo "Running subprocess job 1"
+      - run: echo "Running subprocess 2"
       - run: echo "Checking if job done"
       - name: Job done successfully
         uses: actions/checkout@v3
