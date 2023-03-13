@@ -6,7 +6,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: echo "Starting up!"
-      - run: python3 cobrella.py FILE-NAME-HERE
+      - run: cd cato
+      - run: python3 cobrella.py test.py
       - run: echo "Checking if job done"
       - name: Job done successfully
         uses: actions/checkout@v3
