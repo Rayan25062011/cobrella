@@ -8,4 +8,5 @@
 
 
 # cobrella
-The python code analysis tool
+The python code analysis tool for devs.
+
