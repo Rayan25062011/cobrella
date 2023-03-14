@@ -4,7 +4,7 @@
   <p align="center">The python code analysis tool</p>
 </p>
 
-
+[![CodeFactor](https://www.codefactor.io/repository/github/rayan25062011/cobrella/badge)](https://www.codefactor.io/repository/github/rayan25062011/cobrella)
 
 
 # cobrella
