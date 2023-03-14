@@ -13,4 +13,5 @@ The python code analysis tool for devs.
 ###### How to use
 
 > cd cobrella
+
 > python3 cobrella.py test.py
