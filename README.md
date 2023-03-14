@@ -8,7 +8,7 @@
 
 
 # cobrella
-The python code analysis tool for devs.
+The python code analysis tool that checks for unused code.
 
 Website:
 https://cobrella.w3spaces.com/
